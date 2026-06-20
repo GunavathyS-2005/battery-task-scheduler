@@ -14,7 +14,28 @@ The battery level must always satisfy the following conditions:
 If a task cannot be executed under the given constraints, return `-1`.
 
 ---
+## Setup Instructions
 
+### Requirements
+
+* Python 3.8 or above
+* Visual Studio Code (recommended)
+
+### Libraries Used
+
+No external libraries are required.
+
+Only Python built-in features are used.
+
+### Environment Setup
+
+1. Install Python
+2. Install Visual Studio Code
+3. Create a project folder
+4. Add the solution.py file
+5. Open terminal in VS Code
+
+---
 ## Approach
 
 My approach processes tasks one by one in the given order.
